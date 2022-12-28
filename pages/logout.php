@@ -11,6 +11,6 @@
         exit;
     }  else {
         // redirect to login page if user is not logged in
-        header( 'Location: /login.php');
+        header( 'Location: //login');
         exit;
     }
